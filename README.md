@@ -164,3 +164,5 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 ## Warm-up testing
 check latest build will be sync with warm-up
 i've added this from ide
+## Sendby pull testing
+
